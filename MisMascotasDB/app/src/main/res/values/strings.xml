@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="nombre">Israel Durán</string>
+    <string name="telefono">55557777</string>
+    <string name="email">israelduran@hotmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
